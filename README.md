@@ -103,6 +103,11 @@ Your terminal command line should now be prefixed with ```(venv)```.
 
 (To deactivate the virtual environment run ```deactivate``` in the command line. You'll know it has been deactivated when the prefix ```(venv)``` disappears.)
 
+
+## Windows pyenv-win Installation
+
+Follow instructions [here](https://github.com/pyenv-win/pyenv-win).
+
 ## Installation
 
 
